@@ -1,0 +1,68 @@
+/* anasayfa menüsü için girdiğim css kodlar*/
+.ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        
+    
+}
+.li {
+    float: left;
+}
+
+.li a {
+    display: block;
+    padding:12px 14px;
+}
+.h1 {
+    color:darkgreen;
+    font-size: 20px;
+    
+    
+
+}
+/* ana başlık için girdiğim css kodları*/
+.baslik {
+    color: brown;
+    text-align: center;
+    font-size: 35px;
+}
+/* anasayfadaki slogan için girdiğim css kodları*/
+.p {
+    font-size: 25px;
+    text-align: center;
+    color: gray;
+}
+/*alt başlık için girdiğim css kodları*/
+.h2 {
+    color: chartreuse;
+    text-align: center;
+}
+/*anasayfadaki alt liste için girdiğim css kodları*/
+.altlist {
+    text-align: center;
+    list-style-position:inside;
+}
+/*ürünler sayfası için girdiğim css kodları*/
+.img {
+    margin-left: 500px;
+    margin-right: 300px;
+
+}
+.papatya{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.manolya {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.lale {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.menekse {
+    margin-top: 20px;
+    margin-left: 50px;
+}
